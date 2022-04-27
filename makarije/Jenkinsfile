@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('PROBA') {
+        stage('P-R-A-P-R-A') {
             steps {
-                echo 'TRADICIJA'
+                echo 'M A R K O P R O P A L I T E T'
             }
         }
       }
